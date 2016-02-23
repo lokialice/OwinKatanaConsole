@@ -1,0 +1,12 @@
+C:\Users\phi.hoang\documents\visual studio 2015\Projects\KatanaConsole\KatanaConsole\bin\Debug\KatanaConsole.exe.config
+C:\Users\phi.hoang\documents\visual studio 2015\Projects\KatanaConsole\KatanaConsole\bin\Debug\KatanaConsole.exe
+C:\Users\phi.hoang\documents\visual studio 2015\Projects\KatanaConsole\KatanaConsole\bin\Debug\KatanaConsole.pdb
+C:\Users\phi.hoang\documents\visual studio 2015\Projects\KatanaConsole\KatanaConsole\bin\Debug\Microsoft.Owin.dll
+C:\Users\phi.hoang\documents\visual studio 2015\Projects\KatanaConsole\KatanaConsole\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\phi.hoang\documents\visual studio 2015\Projects\KatanaConsole\KatanaConsole\bin\Debug\Microsoft.Owin.Hosting.dll
+C:\Users\phi.hoang\documents\visual studio 2015\Projects\KatanaConsole\KatanaConsole\bin\Debug\Owin.dll
+C:\Users\phi.hoang\documents\visual studio 2015\Projects\KatanaConsole\KatanaConsole\bin\Debug\Microsoft.Owin.xml
+C:\Users\phi.hoang\documents\visual studio 2015\Projects\KatanaConsole\KatanaConsole\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\phi.hoang\documents\visual studio 2015\Projects\KatanaConsole\KatanaConsole\bin\Debug\Microsoft.Owin.Hosting.xml
+C:\Users\phi.hoang\documents\visual studio 2015\Projects\KatanaConsole\KatanaConsole\obj\Debug\KatanaConsole.exe
+C:\Users\phi.hoang\documents\visual studio 2015\Projects\KatanaConsole\KatanaConsole\obj\Debug\KatanaConsole.pdb
